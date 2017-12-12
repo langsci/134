@@ -1,0 +1,62 @@
+Additive Borrowings	Additive Borrowing
+Adjektivs	Adjektiv
+Adjektive	Adjektiv
+Adjektiven	Adjektiv
+Affixes	Affix
+Affixe	Affix
+Affixen	Affix
+Archaismen	Archaismus
+bestimmte Artikel	bestimmter Artikel
+bestimmten Artikel	bestimmter Artikel
+bestimmten Artikels	bestimmter Artikel
+bestimmten Artikeln	bestimmter Artikel
+unbestimmte Artikel	unbestimmter Artikel
+unbestimmten Artikel	unbestimmter Artikel
+unbestimmten Artikels	unbestimmter Artikel
+unbestimmten Artikeln	unbestimmter Artikel
+Possessivartikels	Possessivartikel
+Possessivartikeln	Possessivartikel
+Blocks	Block
+Blöcke	Block
+Blöcken	Block
+Blockindezes	Blockindex
+Demonstrativpronomens	Demonstrativpronomen
+Deponentia	Deponens
+Genera	Genus
+Hiats	Hiat
+Dialektgruppen	Dialektgruppe
+geografisch isoliert	geografische Isolation
+geografisch isolierte	geografische Isolation
+sozial isoliert	soziale Isolation
+sozial isolierte	soziale Isolation
+isolierten Sprachgemeinschaft	isolierte Sprachgemeinschaft
+isolierte Sprachgemeinschaften	isolierte Sprachgemeinschaft
+isolierten Sprachgemeinschaften	isolierte Sprachgemeinschaft
+Innovationen	Innovation
+Interrogativpronomens	Interrogativpronomen
+Stammformen	Stammform
+inferentiellen Theorien	inferentielle Theorie
+inkrementellen Theorien	inkrementelle Theorien	
+realisierenden Theorien	realisierende Theorie
+Nicht-konkatenativen Morphologie	Nicht-konkatenative Morphologie
+Numeri	Numerus
+Ortsgrammatiken	Ortsgrammatik
+Personalpronomens	Personalpronomen
+Possessivpronomens	Possessivpronomen
+Präfixes	Präfix
+Präfixe	Präfix
+Präfixen	Präfix
+Realisierungsregeln	Realisierungsregel
+Substantivs	Substantiv
+Substantive	Substantiv
+Substantiven	Substantiv
+Suffixes	Suffix
+Suffixe	Suffix
+Suffixen	Suffix
+Synkretismen	Synkretismus
+Umlauts	Umlaut
+Umlaute	Umlaut
+Umlauten	Umlaut
+unification	Unifikation
+well-formed	Wohlgeformtheit
+Wurzeln	Wurzel
